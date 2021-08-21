@@ -1,0 +1,35 @@
+html, body {
+    margin: 0vh;
+    background-color: #2F4F30;
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 2vh;
+    font-size: 3vh;
+}
+
+.carta{
+    position: relative;
+    width: 15vh;
+    left: 10vh;
+    margin-left: -8vh;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+#jugador-cartas, #computadora-cartas{
+    height: 23vh;
+}
+
+b{
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    line-height: inherit;
+}
